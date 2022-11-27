@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544298699 source:c:\users\damg1\desktop\cimat diego\programación eficiente\compilador\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
