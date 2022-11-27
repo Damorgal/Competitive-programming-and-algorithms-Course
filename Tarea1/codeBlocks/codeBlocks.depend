@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567385287 source:/home/damorgal/Documents/Programacio avanzada/Tarea1/codeBlocks/main.cpp
+	<iostream>
+	<utility>
+	<vector>
+	<string>
+	<unistd.h>
+
